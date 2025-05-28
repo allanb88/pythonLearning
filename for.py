@@ -10,7 +10,7 @@
 #     if (i != '-'):
 #         print(i, end='')
 
-for x in range (1, 20 + 1):
+for x in range (1, 20):
     if x == 19:
         continue
     else:
